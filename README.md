@@ -26,7 +26,7 @@ The analysis section includes:
 
 ### PCA plot
 
-<img src="PCA_doc2vec.png" width="1040" height="301">
+<img src="PCA_doc2vec.png" width="800" height="800">
 
 ### Models Used
 We implemented Logistic Regression, Decision Tree, and Random Forest algorithms, assessing their performance in genre classification based on comment analysis. The Random Forest model showed notable accuracy with an F-1 score of 0.93.
